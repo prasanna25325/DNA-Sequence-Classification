@@ -38,7 +38,7 @@ Given a set of DNA sequences from two viral types (SARS and MERS), the goal is t
 
 3. Open the notebook:
 
-jupyter notebook perceptron.ipynb
+    `jupyter notebook perceptron.ipynb`
 
 ## 📈 Results
 
