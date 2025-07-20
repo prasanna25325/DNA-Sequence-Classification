@@ -29,12 +29,12 @@ Given a set of DNA sequences from two viral types (SARS and MERS), the goal is t
 
 1. Clone this repository:
    
-   'git clone https://github.com/your-username/dna-sequence-perceptron.git'
-   'cd dna-sequence-perceptron'
+   `git clone https://github.com/your-username/dna-sequence-perceptron.git`
+   `cd dna-sequence-perceptron`
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 3. Open the notebook:
 
